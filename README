@@ -1,0 +1,19 @@
+# 🚀 SmartCampus
+
+Ứng dụng di động giúp sinh viên PTIT **tra cứu lịch học**, *phòng trống* và nhận thông báo.
+
+- Tính năng hoàn thành:
+  - Tra cứu lịch học
+- Trang chủ: [CLB Lập trình PTIT](https://clblaptrinh.ptit.edu.vn)
+
+![Logo](https://via.placeholder.com/150)
+
+> ⚠️ Dự án đang phát triển, chưa dùng chính thức.
+
+---
+
+## 📦 Cài đặt
+```bash
+git clone [https://github.com/clb-lap-trinh/smartcampus.git](https://github.com/clb-lap-trinh/smartcampus.git)
+npm install
+npm start
